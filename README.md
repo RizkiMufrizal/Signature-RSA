@@ -32,7 +32,7 @@ openssl rsa -in private.pem -out private_unencrypted.pem -outform PEM -passin pa
 
 You can use one of the private keys. In this example, we use private key in pkcs8 format.
 
-## Algorithm And Encryption Methods
+## Algorithm
 
 You can use of this list algorithm :
 
